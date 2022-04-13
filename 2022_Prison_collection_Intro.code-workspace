@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01_Prison Intro Maps",
+		"liveServer.settings.port": 5501
+	}
+}
