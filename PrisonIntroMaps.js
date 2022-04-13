@@ -13,7 +13,7 @@ var config = {
             alignment: 'right',
             title: 'NYS Prisons Over Time',
             description: '<p> At the highest number, New York State had 70 prisons.<p>'+ '<p>List of prisons:<p>',
-            image: './images/prison list with year-01.jpg',
+            image: './Images/prison list with year-01.jpg',
             location: {
                 center: [-74.076,42.793],
                 zoom: 6.5,
@@ -39,7 +39,7 @@ var config = {
             id: 'chapter2',
             alignment: 'right',
             title: 'Closed Prisons',
-            image: './images/closed prison number-01.jpg',
+            image: './Images/closed prison number-01.jpg',
             description: '<p> Within the past 30 years, 26 prisons are now closed.<p>'+ '<p> List of closed prisons:<p>',
             location: {
                 center: [-74.076,42.793],
@@ -67,7 +67,7 @@ var config = {
             id: 'chapter3',
             alignment: 'right',
             title: 'Prison Capacity',
-            image: './images/Picture1.png',
+            image: './Images/Picture1.png',
             description: 'Out of these closing prisons, 20% of prison capacity is reduced as of 2022.',
             location: {
                 center: [-74.076,42.793],
