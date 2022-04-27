@@ -15,7 +15,7 @@ var config = {
             description: '<p> closed/ closing prison are notated in red<p>',
             image: './Images/prison_number_red-03.jpg',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -42,7 +42,7 @@ var config = {
             image: './Images/prison_number_red-03.jpg',
             description: '<p> Within the past 30 years, 26 prisons are now closed.<p>',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -70,7 +70,7 @@ var config = {
             image: './Images/Picture1-04.png',
             description: 'From the closed/closing prisons, 20% of prison capacity is reduced as of 2022.',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -98,7 +98,7 @@ var config = {
             image: './Images/median_income-05.jpg',
             description: 'We can see a clear income division between the more upstate counties and the downstate counties along the Hudson River.',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -126,7 +126,7 @@ var config = {
             image: './Images/political_leaning-06.jpg',
             description: 'During the 2020 election, most of the counties around major cities are more democratically meaning, while most of the northern rural counties are more republican.',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
